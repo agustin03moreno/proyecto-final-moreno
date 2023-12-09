@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
+body {
+    font-family: 'Libre Baskerville', serif;
+    color: black;
+}
+
+.logo {
+    width: 10rem;
+}
+
+.fuentes {
+    font-size: 1.5rem;
+    padding-left: 2rem;
+    text-transform: uppercase;
+    color: black;
+    font-family: 'Libre Baskerville', serif;
+}
+
+.fuentes li a:hover {
+    background-color: black;
+    color: #fff;
+}
+
+header {
+    border-bottom: 1px solid black;
+}
+.colorBtn {
+    background-color: black;
+    color: #fff;
+}
+
+.colorBtn:hover {
+    background-color:gray;
+    color: #fff;
+}
+.imgCarousel {
+  
+    Object-fit: cover
+    
+}
+.tituloProductos {
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 1rem;
+    font-family: 'Libre Baskerville', serif;
+}
+
+.tituloProductos h2 {
+    font-size: 2rem;
+}
+
+.card {
+    border: none;
+}
+
